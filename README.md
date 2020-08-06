@@ -1,5 +1,8 @@
 # MacDicConversion
 [日本語](README.ja.md)
+
+Convert macOS dictonary data to handy html.
+
 ## How To
 ### Basic
 If you don't know what [EBStudio](http://ebstudio.info/home/EBStudio.html) is ...
