@@ -41,4 +41,5 @@ If you use [EBStudio](http://ebstudio.info/home/EBStudio.html) ...
 6. you may need extra work. read ``readme.txt``(Japanese) if exist.
 7. open EBStudio and convert!
 
-
+## Caution
+If you fork and operate, be very careful not to publish actual dictionary file by accident.
