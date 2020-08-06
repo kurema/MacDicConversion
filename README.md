@@ -1,4 +1,5 @@
 # MacDicConversion
+[日本語](README.ja.md)
 ## How To
 ### Basic
 If you don't know what [EBStudio](http://ebstudio.info/home/EBStudio.html) is ...
@@ -30,8 +31,6 @@ It depends on html structure to convert, so check some files in ``/out/``
 7. go to #4 of **Basic**
 
 ### EBStudio
-[日本語](readme.ja-jp.md)
-
 If you use [EBStudio](http://ebstudio.info/home/EBStudio.html) ...
 
 1. copy ``Body.data`` from somewhare to ``unzip/``
