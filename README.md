@@ -30,6 +30,8 @@ It depends on html structure to convert, so check some files in ``/out/``
 7. go to #4 of **Basic**
 
 ### EBStudio
+[日本語](readme.ja-jp.md)
+
 If you use [EBStudio](http://ebstudio.info/home/EBStudio.html) ...
 
 1. copy ``Body.data`` from somewhare to ``unzip/``
@@ -40,3 +42,5 @@ If you use [EBStudio](http://ebstudio.info/home/EBStudio.html) ...
 5. run ``convert.bat``.
 6. you may need extra work. read ``readme.txt``(Japanese) if exist.
 7. open EBStudio and convert!
+
+
