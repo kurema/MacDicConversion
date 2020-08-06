@@ -1,0 +1,13 @@
+span.hg{headWordGroup:true;}
+span.hw{key:表記;}
+span.hg span.hv{key:表記;}
+span.subEntryBlock.t_phrases,
+span.subEntryBlock.t_phrasalVerbs,
+span.subEntryBlock.t_derivatives
+{reference:true;}
+span.subEntryBlock.t_phrases > span.gp,
+span.subEntryBlock.t_phrasalVerbs > span.gp,
+span.subEntryBlock.t_derivatives > span.gp
+{referenceTitle:true;}
+span.feature{reference:true;}
+span.feature-title{referenceTitle:true;}

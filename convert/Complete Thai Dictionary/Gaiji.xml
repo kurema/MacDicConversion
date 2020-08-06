@@ -1,0 +1,7347 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<gaijiData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <fontSet size="8X16" start="A121">
+    <fontData ebcode="A121" unicode="E01">
+        
+        
+        
+        
+        
+   #### 
+  #   # 
+   ##  #
+   #   #
+   #   #
+   #   #
+   #   #
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A122" unicode="E22">
+        
+        
+        
+        
+        
+  ##  # 
+      # 
+  ##  # 
+   #  # 
+  #   # 
+  #   # 
+  ##### 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A123" unicode="E31">
+        
+        
+    ## #
+    ### 
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A124" unicode="E0A">
+        
+        
+        
+        
+        
+ ###  # 
+    # # 
+ #   #  
+   #  # 
+   #  # 
+   #  # 
+  ##### 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A125" unicode="E19">
+        
+        
+        
+        
+        
+ ##   # 
+      # 
+ ##   # 
+  #   # 
+  #  ###
+  ##  # 
+  #   ##
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A126" unicode="E30">
+        
+        
+        
+        
+        
+        
+      # 
+  ####  
+        
+        
+      # 
+  ####  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A127" unicode="E44">
+ #  ##  
+  ####  
+   # #  
+     #  
+     #  
+     #  
+     #  
+     #  
+     #  
+     ## 
+        
+     ## 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A128" unicode="E17">
+        
+        
+        
+        
+        
+ ##  ## 
+    # # 
+ ###  # 
+  #   # 
+  #   # 
+  #   # 
+  #   # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A129" unicode="E15">
+        
+        
+        
+        
+        
+  # ##  
+ # #  # 
+ #  # # 
+ # ## # 
+ #    # 
+  ##  # 
+  #   # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A12A" unicode="E27">
+        
+        
+        
+        
+        
+   ###  
+  #   # 
+      # 
+      # 
+     ## 
+      # 
+     ## 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A12B" unicode="E35">
+        
+        
+   #### 
+  ##### 
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A12C" unicode="E48">
+        
+        
+        
+        
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A12D" unicode="E51">
+        
+        
+        
+        
+        
+        
+  ####  
+ #    # 
+ #    # 
+ # ## # 
+ #  # # 
+  ## #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A12E" unicode="E40">
+        
+        
+        
+        
+        
+   #    
+   #    
+   #    
+   #    
+   ##   
+   #    
+   ##   
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A12F" unicode="E1B">
+        
+        
+      # 
+      # 
+      # 
+ ##   # 
+      # 
+ ##   # 
+  #   # 
+  #   # 
+  #   # 
+ ###### 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A130" unicode="E47">
+      # 
+   ###  
+     #  
+   #### 
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A131" unicode="E2D">
+        
+        
+        
+        
+        
+   ###  
+  #   # 
+   ## # 
+      # 
+   ## # 
+   #  # 
+    ### 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A132" unicode="E23">
+        
+        
+        
+        
+        
+   ##   
+     ## 
+  ####  
+      # 
+     ## 
+      # 
+     ## 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A133" unicode="E25">
+        
+        
+        
+        
+        
+  ####  
+      # 
+   #  # 
+  ### # 
+  ## ## 
+  # ### 
+   #  # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A134" unicode="E32">
+        
+        
+        
+        
+        
+   ##   
+     #  
+     #  
+     #  
+     #  
+     #  
+     #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A135" unicode="E07">
+        
+        
+        
+        
+        
+        
+        
+    ##  
+ ##  #  
+   # #  
+    ##  
+     #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A136" unicode="E43">
+  ###   
+ #  #   
+ #  #   
+    #   
+    #   
+    #   
+    #   
+    #   
+    #   
+    ##  
+    #   
+    ##  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A137" unicode="E49">
+        
+    #   
+    # # 
+    ##  
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A138" unicode="E2A">
+        
+        
+        
+        
+       #
+   #### 
+  #  ## 
+   #  # 
+  ### # 
+  ## ## 
+  # # # 
+   #  # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A139" unicode="E14">
+        
+        
+        
+        
+        
+  ####  
+ # # ## 
+ #    # 
+ # ## # 
+ #    # 
+  #   # 
+  #   # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A13A" unicode="E41">
+        
+        
+        
+        
+        
+ #   #  
+ #   #  
+ #   #  
+ #   #  
+ ##  ## 
+ #      
+ ##  ## 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A13B" unicode="E21">
+        
+        
+        
+        
+        
+ ##   # 
+      # 
+ ##   # 
+  #   # 
+ #### # 
+  #  ## 
+ ##   # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A13C" unicode="E04">
+        
+        
+        
+        
+        
+  ####  
+ #   ## 
+ ###  # 
+ ###  # 
+ ###  # 
+  #   # 
+  #   # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A13D" unicode="E37">
+        
+      # 
+   #### 
+  ##### 
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A13E" unicode="E42">
+   ## # 
+  #  #  
+  ###   
+    #   
+    #   
+    #   
+    #   
+    #   
+    #   
+    ##  
+    #   
+    ##  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A13F" unicode="E2B">
+        
+        
+        
+        
+        
+ ##   # 
+        
+ ##  ## 
+  # # # 
+  ##  # 
+  #   # 
+  #   # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A140" unicode="E02">
+        
+        
+        
+        
+        
+ ###  # 
+    # # 
+ #    # 
+   #  # 
+   #  # 
+   #  # 
+  ##### 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A141" unicode="E2E">
+        
+        
+        
+        
+       #
+  ##### 
+       #
+   #   #
+    #  #
+   #   #
+   #   #
+   #### 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A142" unicode="E1A">
+        
+        
+        
+        
+        
+ ##   # 
+      # 
+ ##   # 
+  #   # 
+  #   # 
+  #   # 
+ ###### 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A143" unicode="E34">
+        
+        
+   ###  
+  ##### 
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A144" unicode="E39">
+        
+        
+        
+        
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+    # # 
+     #  
+        
+</fontData>
+    <fontData ebcode="A145" unicode="E1C">
+        
+        
+        
+        
+        
+ ##   # 
+      # 
+ ##   # 
+ #    # 
+ # ## # 
+ ##  ## 
+ ##   # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A146" unicode="E36">
+        
+     #  
+   ## # 
+  ##### 
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A147" unicode="E20">
+        
+        
+        
+        
+        
+  ####  
+ #    # 
+  ##  # 
+  #   # 
+ ##   # 
+      # 
+ ##   # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A148" unicode="E28">
+        
+        
+        
+        
+        
+  ##### 
+ #  ### 
+ ###  # 
+ ###  # 
+ ##   # 
+  #   # 
+  #   # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A149" unicode="E08">
+        
+        
+        
+        
+        
+   ###  
+  #   # 
+   #  # 
+      # 
+   ## # 
+    # # 
+    ### 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A14A" unicode="E18">
+        
+        
+        
+        
+        
+   ##   
+     ## 
+  ####  
+   #  # 
+   #  # 
+   #  # 
+   #### 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A14B" unicode="E46">
+        
+        
+        
+        
+        
+  # ##  
+ # #  # 
+ ##   # 
+      # 
+ ##   # 
+      # 
+      # 
+      # 
+      # 
+        
+        
+</fontData>
+    <fontData ebcode="A14C" unicode="E38">
+        
+        
+        
+        
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+      # 
+      # 
+        
+</fontData>
+    <fontData ebcode="A14D" unicode="E24">
+        
+        
+        
+        
+        
+   #### 
+  #   # 
+   ##  #
+   #   #
+   #   #
+    #  #
+   #   #
+       #
+       #
+       #
+        
+</fontData>
+    <fontData ebcode="A14E" unicode="E52">
+        
+        
+        
+        
+ #      
+ #      
+ # #####
+ # # # #
+ # #   #
+ # ##  #
+ #     #
+ ###### 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A14F" unicode="E53">
+        
+        
+        
+        
+        
+        
+  ## ## 
+ #  #  #
+ #  #  #
+ #  #  #
+ ## #  #
+  # #  #
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A150" unicode="E4C">
+       #
+      # 
+     #  
+     ## 
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A151" unicode="E54">
+        
+        
+        
+        
+       #
+       #
+  ##### 
+ #      
+ #   #  
+ #      
+ #   #  
+  ### # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A152" unicode="E16">
+        
+        
+        
+        
+        
+   #### 
+  #   # 
+   ##  #
+   #   #
+   #   #
+    #  #
+   #   #
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A153" unicode="E55">
+        
+        
+        
+       #
+       #
+   ##  #
+  ##### 
+ #      
+ #   #  
+ #      
+ #   #  
+  ### # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A154" unicode="E0B">
+        
+        
+        
+        
+        
+ ###   #
+  # # # 
+ #  ### 
+   #  # 
+   #  # 
+   #  # 
+   #### 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A155" unicode="E4A">
+        
+    ##  
+      # 
+    # # 
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A156" unicode="E45">
+        
+        
+        
+        
+        
+   ##   
+     #  
+     #  
+     #  
+     #  
+     #  
+     #  
+     #  
+     #  
+     #  
+        
+</fontData>
+    <fontData ebcode="A157" unicode="E57">
+        
+        
+        
+        
+       #
+       #
+ ## ## #
+ # # # #
+ #   ###
+ #   # #
+ ### #  
+  ## ## 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A158" unicode="E0E">
+        
+        
+        
+        
+        
+  ####  
+ #    # 
+  ##  # 
+  #   # 
+ ##   # 
+      # 
+ ##   # 
+  ### # 
+    ### 
+  ##  # 
+        
+</fontData>
+    <fontData ebcode="A159" unicode="E56">
+        
+        
+        
+        
+ #      
+        
+  ####  
+  #   # 
+      # 
+  ##  # 
+  ##  # 
+   ###  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A15A" unicode="E1D">
+        
+        
+      # 
+      # 
+      # 
+ ##   # 
+      # 
+ ##   # 
+ #    # 
+ # ## # 
+ ##  ## 
+ ##   # 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A15B" unicode="E58">
+        
+        
+        
+        
+       #
+       #
+  ##### 
+ #      
+ #      
+ #    # 
+ # ##  #
+  #  ## 
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A15C" unicode="E59">
+        
+        
+        
+        
+       #
+        
+  ##### 
+ #  #   
+ #  #   
+ #  #   
+ ### #  
+  ## #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A15D" unicode="E50">
+        
+        
+        
+        
+        
+        
+  ####  
+ #    # 
+ #    # 
+ #    # 
+ #    # 
+  ####  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A15E" unicode="E4B">
+        
+        
+     ## 
+        
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+        
+        
+        
+</fontData>
+    <fontData ebcode="A15F" unicode="E10">
+        
+        
+        
+        
+        
+   ##   
+     ## 
+  ####  
+   #  # 
+      # 
+   ## # 
+    ### 
+        
+   ## # 
+   #### 
+        
+</fontData>
+    <fontData ebcode="A160" unicode="E0F">
+        
+        
+        
+        
+        
+  ####  
+ #    # 
+  ##  # 
+  #   # 
+ ##   # 
+      # 
+ ##   # 
+   #  # 
+ ###  # 
+ ###### 
+        
+</fontData>
+    <fontData ebcode="A161" unicode="E3A">
+        
+        
+        
+        
+        
+     #  
+        
+ #      
+ #      
+ #      
+        
+     #  
+        
+        
+      # 
+        
+</fontData>
+  </fontSet>
+  <fontSet size="12X24" start="A121">
+    <fontData ebcode="A121" unicode="E01">
+            
+            
+            
+            
+            
+            
+            
+            
+    ####    
+  ##   ##   
+  ##    ##  
+   ##   ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A122" unicode="E22">
+            
+            
+            
+            
+            
+            
+            
+            
+   #    ##  
+  # #   ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+   ##   ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  #######   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A123" unicode="E31">
+            
+            
+            
+            
+      #   ##
+     # # ## 
+      ####  
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A124" unicode="E0A">
+            
+            
+            
+            
+            
+            
+            
+          ##
+  ####   ## 
+ # # ## ### 
+  #  ##  ## 
+     ##  ## 
+    ##   ## 
+    ##   ## 
+    ##   ## 
+    ##   ## 
+    ##   ## 
+   #######  
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A125" unicode="E19">
+            
+            
+            
+            
+            
+            
+            
+            
+  #      ## 
+ # #     ## 
+  ##     ## 
+  ##     ## 
+  ##     ## 
+  ##     ## 
+  ##   #####
+  ## ##  ## 
+  ####   ## 
+  ##     ###
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A126" unicode="E30">
+            
+            
+            
+            
+            
+            
+            
+            
+    #   ##  
+   # # ##   
+    ####    
+            
+            
+            
+            
+    #   ##  
+   # # ##   
+    ####    
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A127" unicode="E44">
+  #  ###    
+  #  ###    
+   ## ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      # #   
+       #    
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A128" unicode="E17">
+            
+            
+            
+            
+            
+            
+            
+            
+   #     ###
+  # #   # ##
+   ##  #  ##
+   ##  #  ##
+   ## #   ##
+   ## #   ##
+   ###    ##
+   ###    ##
+   ##     ##
+   ##     ##
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A129" unicode="E15">
+            
+            
+            
+            
+            
+            
+            
+            
+    #  ##   
+   # ##  #  
+  #      ## 
+  #  #   ## 
+  # # #  ## 
+  ## ##  ## 
+   #  #  ## 
+    ##   ## 
+    ##   ## 
+    ##   ## 
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A12A" unicode="E27">
+            
+            
+            
+            
+            
+            
+            
+            
+  ####      
+ #   ##     
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+     # #    
+      #     
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A12B" unicode="E35">
+            
+            
+            
+        #   
+    ### #   
+   #   ##   
+  #######   
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A12C" unicode="E48">
+            
+            
+            
+            
+       #    
+       #    
+       #    
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A12D" unicode="E51">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+   #####    
+  ##    ##  
+ ##      ## 
+ ##  #   ## 
+ ## # #  ## 
+ ##  ##  ## 
+  ##  #  #  
+   ###  #   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A12E" unicode="E40">
+            
+            
+            
+            
+            
+            
+            
+            
+    ##      
+    ##      
+    ##      
+    ##      
+    ##      
+    ##      
+    ##      
+    ##      
+    # #     
+     #      
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A12F" unicode="E1B">
+            
+            
+            
+        ##  
+        ##  
+        ##  
+        ##  
+        ##  
+  #     ##  
+ # #    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+ ########   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A130" unicode="E47">
+            
+            
+        #   
+    ####    
+   #        
+   #    #   
+   #####    
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A131" unicode="E2D">
+            
+            
+            
+            
+            
+            
+            
+            
+   ####     
+  #   ##    
+       ##   
+    #  ##   
+   # # ##   
+   ##  ##   
+   ##  ##   
+   ##  ##   
+   ##  ##   
+    ####    
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A132" unicode="E23">
+            
+            
+            
+            
+            
+            
+            
+            
+   ###  #   
+  ##  ###   
+  #####     
+     ###    
+      ##    
+      ##    
+      ##    
+      ##    
+     # #    
+      #     
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A133" unicode="E25">
+            
+            
+            
+            
+            
+            
+            
+            
+   ####     
+  #   ##    
+       ##   
+   ##  ##   
+  ## # ##   
+  ## # ##   
+  ##  ###   
+  ##  ###   
+  # #  ##   
+   #   ##   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A134" unicode="E32">
+            
+            
+            
+            
+            
+            
+            
+            
+   ####     
+  #   ##    
+       ##   
+       ##   
+       ##   
+       ##   
+       ##   
+       ##   
+       ##   
+       ##   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A135" unicode="E07">
+            
+            
+            
+            
+            
+            
+            
+            
+      #     
+     # #    
+      ##    
+      ##    
+      ##    
+  ##  ##    
+   ## ##    
+    # ##    
+     ###    
+      ##    
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A136" unicode="E43">
+  ##  ##    
+  # # ##    
+   #  ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      ##    
+      # #   
+       #    
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A137" unicode="E49">
+            
+            
+            
+    ##   #  
+    ##   #  
+     #  #   
+    ####    
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A138" unicode="E2A">
+            
+            
+            
+            
+            
+            
+            
+        #   
+   #### #   
+  #   ###   
+     ####   
+   #   ##   
+  ###  ##   
+  ## # ##   
+  ##  ###   
+  ##  ###   
+  # #  ##   
+   #   ##   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A139" unicode="E14">
+            
+            
+            
+            
+            
+            
+            
+            
+    #####   
+   #    ##  
+  #      ## 
+  #  #   ## 
+  # # #  ## 
+  ## ##  ## 
+   #  #  ## 
+    ##   ## 
+    ##   ## 
+    ##   ## 
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A13A" unicode="E41">
+            
+            
+            
+            
+            
+            
+            
+            
+  ##   ##   
+  ##   ##   
+  ##   ##   
+  ##   ##   
+  ##   ##   
+  ##   ##   
+  ##   ##   
+  ##   ##   
+  # #  # #  
+   #    #   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A13B" unicode="E21">
+            
+            
+            
+            
+            
+            
+            
+            
+  #     ##  
+ # #    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+ #####  ##  
+# ##  # ##  
+# ##   ###  
+ ###    ##  
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A13C" unicode="E04">
+            
+            
+            
+            
+            
+            
+            
+            
+    #####   
+   #    ##  
+  #      ## 
+  #  #   ## 
+  # # #  ## 
+  ####   ## 
+   ###   ## 
+    ##   ## 
+    ##   ## 
+    ##   ## 
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A13D" unicode="E37">
+            
+            
+            
+      # #   
+    ### #   
+   #   ##   
+  #######   
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A13E" unicode="E42">
+   #  #     
+  ##        
+  ####      
+     ##     
+     ##     
+     ##     
+     ##     
+     ##     
+     ##     
+     ##     
+     ##     
+     ##     
+     ##     
+     ##     
+     ##     
+     ##     
+     # #    
+      #     
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A13F" unicode="E2B">
+            
+            
+            
+            
+            
+            
+            
+            
+  #      #  
+ # #    # # 
+  ##    # # 
+  ##    ##  
+  ##   # ## 
+  ## ##  ## 
+  ## #   ## 
+  ###    ## 
+  ##     ## 
+  ##     ## 
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A140" unicode="E02">
+            
+            
+            
+            
+            
+            
+            
+            
+  ####  ##  
+ # # ## ##  
+  #  ## ##  
+     ## ##  
+    ##  ##  
+    ##  ##  
+    ##  ##  
+    ##  ##  
+    ##  ##  
+   ######   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A141" unicode="E2E">
+            
+            
+            
+            
+            
+            
+            
+            
+   #### ##  
+  ##   ##   
+   ######   
+       ##   
+   #   ##   
+  # #  ##   
+  ##   ##   
+  ##   ##   
+  ##   ##   
+   #####    
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A142" unicode="E1A">
+            
+            
+            
+            
+            
+            
+            
+            
+  #     ##  
+ # #    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+ ########   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A143" unicode="E34">
+            
+            
+            
+            
+    ###     
+   #   #    
+  #######   
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A144" unicode="E39">
+            
+            
+            
+            
+            
+            
+            
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+     ## #   
+     ## #   
+      ###   
+            
+</fontData>
+    <fontData ebcode="A145" unicode="E1C">
+            
+            
+            
+            
+            
+            
+            
+            
+   #     ## 
+  # #    ## 
+  ##     ## 
+  ##     ## 
+  ##     ## 
+  ##     ## 
+  ##  #  ## 
+  ## # # ## 
+  ###   ### 
+  ##     ## 
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A146" unicode="E36">
+            
+            
+            
+       ##   
+    #####   
+   #   #    
+  #######   
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A147" unicode="E20">
+            
+            
+            
+            
+            
+            
+            
+            
+    ####    
+  ##   ##   
+  ##    ##  
+   ##   ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+ # #    ##  
+  #     ##  
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A148" unicode="E28">
+            
+            
+            
+            
+            
+            
+            
+          # 
+    ##### ##
+   #    ### 
+  #    # ## 
+  #  #   ## 
+  # # #  ## 
+  ####   ## 
+   ###   ## 
+    ##   ## 
+    ##   ## 
+    ##   ## 
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A149" unicode="E08">
+            
+            
+            
+            
+            
+            
+            
+            
+   ####     
+  #   ##    
+       ##   
+    #  ##   
+   # # ##   
+   ### ##   
+    ## ##   
+    ## ##   
+    ## ##   
+     ###    
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A14A" unicode="E18">
+            
+            
+            
+            
+            
+            
+            
+            
+   ####  #  
+  ##   ###  
+  ######    
+       ##   
+    ##  ##  
+    ##  ##  
+    ##  ##  
+    ##  ##  
+    ##  ##  
+   ######   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A14B" unicode="E46">
+            
+            
+            
+            
+            
+            
+            
+            
+   ##   ##  
+  #  ### ## 
+  ##      ##
+  # #     ##
+   #      ##
+          ##
+          ##
+          ##
+          ##
+          ##
+          ##
+          ##
+          ##
+          ##
+          ##
+            
+</fontData>
+    <fontData ebcode="A14C" unicode="E38">
+            
+            
+            
+            
+            
+            
+            
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+       ##   
+       ##   
+        #   
+            
+</fontData>
+    <fontData ebcode="A14D" unicode="E24">
+            
+            
+            
+            
+            
+            
+            
+            
+    ####    
+  ##   ##   
+  ##    ##  
+   ##   ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  # #   ##  
+   #    ##  
+        ##  
+        ##  
+        ##  
+        ##  
+        ##  
+            
+</fontData>
+    <fontData ebcode="A14E" unicode="E52">
+            
+            
+            
+            
+            
+            
+            
+##          
+ ##         
+ ##         
+ ##  ## ##  
+ ## ## # ## 
+ ## ##   ## 
+ ## # #  ## 
+ ##  #   ## 
+ ##      ## 
+ ##      ## 
+ #########  
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A14F" unicode="E53">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+  ###  ###  
+ ##  ##  ## 
+ ##  ##  ## 
+ ##  ##  ## 
+ ##  ##  ## 
+ ##  ##  ## 
+ # # ##  ## 
+  #  ##  ## 
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A150" unicode="E4C">
+            
+            
+            
+         #  
+       ##   
+      #     
+      ##    
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A151" unicode="E54">
+            
+            
+            
+            
+            
+            
+            
+            
+           #
+          # 
+   #######  
+  ##        
+ ##    #    
+ ##   # #   
+ ##   # #   
+ ##   # #   
+  ##   ##   
+   ####  ## 
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A152" unicode="E16">
+            
+            
+            
+            
+            
+            
+            
+            
+    ####    
+  ##   ##   
+  ##    ##  
+   ##   ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  # #   ##  
+   #    ##  
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A153" unicode="E55">
+            
+            
+            
+            
+            
+            
+            
+            
+     #     #
+    # #   # 
+   #######  
+  ##        
+ ##    #    
+ ##   # #   
+ ##   # #   
+ ##   # #   
+  ##   ##   
+   ####  ## 
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A154" unicode="E0B">
+            
+            
+            
+            
+            
+            
+            
+          ##
+ ## ##   ## 
+#  # ## ### 
+##   ##  ## 
+# #  ##  ## 
+ #  ##   ## 
+    ##   ## 
+    ##   ## 
+    ##   ## 
+    ##   ## 
+   #######  
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A155" unicode="E4A">
+            
+            
+            
+    # ## #  
+    ## # #  
+    #  # #  
+    ## ##   
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A156" unicode="E45">
+            
+            
+            
+            
+            
+            
+            
+            
+   ####     
+  #   ##    
+       ##   
+       ##   
+       ##   
+       ##   
+       ##   
+       ##   
+       ##   
+       ##   
+       ##   
+       ##   
+       ##   
+       ##   
+       ##   
+            
+</fontData>
+    <fontData ebcode="A157" unicode="E57">
+            
+            
+            
+            
+            
+            
+            
+            
+         #  
+          # 
+  ## ###  # 
+ ## #  ## # 
+ ## #  ## # 
+ ## #  ## # 
+ ##    ## # 
+ ###   ###  
+  # #  # #  
+  ##  ###   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A158" unicode="E0E">
+            
+            
+            
+            
+            
+            
+            
+            
+    ####    
+  ##   ##   
+  ##    ##  
+   ##   ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+ # #    ##  
+  #     ##  
+      # ##  
+   #### ##  
+  #  ## ##  
+  #  # ###  
+   ##   ##  
+            
+</fontData>
+    <fontData ebcode="A159" unicode="E56">
+            
+            
+            
+            
+            
+            
+            
+            
+##          
+ ##         
+  #######   
+   #    ##  
+         ## 
+    #    ## 
+   # #   ## 
+   ##    ## 
+    #   ##  
+     ####   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A15A" unicode="E1D">
+            
+            
+            
+         ## 
+         ## 
+         ## 
+         ## 
+         ## 
+   #     ## 
+  # #    ## 
+  ##     ## 
+  ##     ## 
+  ##     ## 
+  ##     ## 
+  ##  #  ## 
+  ## # # ## 
+  ###   ### 
+  ##     ## 
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A15B" unicode="E58">
+            
+            
+            
+            
+            
+            
+            
+            
+           #
+          # 
+   #######  
+  ##        
+ ##         
+ ##      #  
+ ##     # # 
+ ## ###  ## 
+  ###  #  # 
+   ##   ##  
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A15C" unicode="E59">
+            
+            
+            
+            
+            
+            
+            
+            
+           #
+           #
+  ### ###  #
+ ##  ##  ## 
+ ##  ##  #  
+ ##  ##     
+ ##   ##    
+ ## # ###   
+  ## # ###  
+   ##   #   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A15D" unicode="E50">
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+   ######   
+  ##    ##  
+ ##      ## 
+ ##      ## 
+ ##      ## 
+ ##      ## 
+  ##    ##  
+   ######   
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A15E" unicode="E4B">
+            
+            
+            
+            
+        #   
+       ###  
+        #   
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+            
+            
+            
+            
+</fontData>
+    <fontData ebcode="A15F" unicode="E10">
+            
+            
+            
+            
+            
+            
+            
+            
+   ####  #  
+  ##   ###  
+  ######    
+      ###   
+    #  ##   
+   # # ##   
+    ## ##   
+    ## ##   
+    ## ##   
+     ###    
+            
+     # ##   
+    ## ##   
+   # ## #   
+    ## #    
+            
+</fontData>
+    <fontData ebcode="A160" unicode="E0F">
+            
+            
+            
+            
+            
+            
+            
+            
+    ####    
+  ##   ##   
+  ##    ##  
+   ##   ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+  ##    ##  
+ # #    ##  
+  #     ##  
+    #   ##  
+  # #   ##  
+ # ##   ##  
+ #  # # ##  
+  #### ###  
+            
+</fontData>
+    <fontData ebcode="A161" unicode="E3A">
+            
+            
+            
+            
+            
+            
+            
+   # ##     
+ #      #   
+            
+#        #  
+#        #  
+            
+#        #  
+            
+ #      #   
+   # ##     
+            
+            
+            
+            
+       ##   
+       ##   
+            
+</fontData>
+  </fontSet>
+  <fontSet size="24X48" start="A121">
+    <fontData ebcode="A121" unicode="E01">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        #######         
+      ############      
+     ####      ####     
+    ###         ####    
+   ###           ###    
+   ####           ###   
+    ####          ###   
+      #####       ###   
+      ###         ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A122" unicode="E22">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+      ###       ###     
+     #####      ###     
+    ##   ##     ###     
+    ##   ##     ###     
+    ##   ##     ###     
+    ######      ###     
+    #####       ###     
+    ###         ###     
+    ###         ###     
+     ###        ###     
+      ####      ###     
+     ###        ###     
+    ###         ###     
+    ###         ###     
+    ###         ###     
+    ###         ###     
+    ###         ###     
+    ###         ###     
+    ##############      
+    #############       
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A123" unicode="E31">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+              ###      #
+             ######    #
+            ##   ##   ##
+            ##   ##   ##
+            ##   ## ####
+             ########## 
+              ######    
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A124" unicode="E0A">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                  ###   
+                  ###   
+     ######      ###    
+    #########   ###     
+   ####   ###  ####     
+  ##   #   ###  ####    
+  ##   ##  ###   ###    
+  ##   ##  ###   ###    
+  ##   ##  ###   ###    
+   #####  ###    ###    
+    ###  ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+       ############     
+       ###########      
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A125" unicode="E19">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+   ###           ###    
+  #####          ###    
+ ##   ##         ###    
+ ##   ##         ###    
+ ##   ##         ###    
+  ######         ###    
+   #####         ###    
+     ###         ###    
+     ###         ###    
+     ###         ###    
+     ###         ###    
+     ###         ###    
+     ###       ######   
+     ###     #########  
+     ###   ####  ### ## 
+     ###  ###    ### ## 
+     ### ##      ### ## 
+     #####       ### ## 
+     ####        #####  
+     ###          ####  
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A126" unicode="E30">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+      ###      ###      
+     ######    ###      
+    ##   ##   ###       
+    ##   ##   ###       
+    ##   ## ####        
+     ##########         
+      ######            
+                        
+                        
+                        
+                        
+                        
+                        
+      ###      ###      
+     ######    ###      
+    ##   ##   ###       
+    ##   ##   ###       
+    ##   ## ####        
+     ##########         
+      ######            
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A127" unicode="E44">
+   ##       ###         
+    ##     ####         
+    ##     ####         
+    ###   #####         
+     ##  ## ###         
+      ##### ###         
+       ###  ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            ###         
+            #####       
+            ######      
+            ##   ##     
+            ##   ##     
+            ##   ##     
+             #####      
+              ###       
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A128" unicode="E17">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+    ###         ####    
+   #####       ######   
+  ##   ##     ### ###   
+  ##   ##     ##  ###   
+  ##   ##    ##   ###   
+   ######   ###   ###   
+    #####   ##    ###   
+      ###  ###    ###   
+      ###  ##     ###   
+      ### ###     ###   
+      ### ##      ###   
+      ### ##      ###   
+      #####       ###   
+      #####       ###   
+      #####       ###   
+      ####        ###   
+      ####        ###   
+      ####        ###   
+      ###         ###   
+      ###         ###   
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A129" unicode="E15">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+      ##      ##        
+     ####   #####       
+    ## #######  ##      
+   ##    ###    ###     
+   ##            ##     
+  ##             ###    
+  ##     ###     ###    
+  ##    #####    ###    
+  ##   ##   ##   ###    
+  ##   ##   ##   ###    
+   ##  ##   ##   ###    
+   ##   ######   ###    
+    ##   ####    ###    
+    ###   ##     ###    
+     ##  ##      ###    
+     ######      ###    
+      ####       ###    
+      ###        ###    
+      ###        ###    
+      ###        ###    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A12A" unicode="E27">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        ######          
+      ##########        
+     ###      ###       
+    ###        ###      
+     #          ###     
+                ###     
+                ###     
+                ###     
+                ###     
+                ###     
+                ###     
+                ###     
+                ###     
+              #####     
+             ######     
+            ##   ##     
+            ##   ##     
+            ##   ##     
+             #####      
+              ###       
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A12B" unicode="E35">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                  ##    
+         ######   ##    
+        ######### ##    
+       ##       ####    
+      #           ##    
+      ##############    
+     ###############    
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A12C" unicode="E48">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                  ##    
+                  ##    
+                  ##    
+                  ##    
+                  ##    
+                  ##    
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A12D" unicode="E51">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        #######         
+      ############      
+     ####      ####     
+    ####        ####    
+    ###          ###    
+   ###   ###      ###   
+   ###  ##  #     ###   
+   ###  ##  ##    ###   
+   ###  ##  ##    ###   
+   ###  ##  ##    ###   
+    ###  #####   ###    
+    ####   ##   ###     
+     ########  ###      
+       ####    #        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A12E" unicode="E40">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+          ###           
+          ###           
+          ###           
+          ###           
+          ###           
+          ###           
+          ###           
+          ###           
+          ###           
+          ###           
+          ###           
+          ###           
+          ###           
+          #####         
+          ######        
+          ##   ##       
+          ##   ##       
+          ##   ##       
+           #####        
+            ###         
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A12F" unicode="E1B">
+                        
+                        
+                        
+                        
+                        
+                        
+                  ###   
+                  ###   
+                  ###   
+                  ###   
+                  ###   
+                  ###   
+                  ###   
+                  ###   
+                  ###   
+                  ###   
+    ###           ###   
+   #####          ###   
+  ##   ##         ###   
+  ##   ##         ###   
+  ##   ##         ###   
+   ######         ###   
+    #####         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+    ################    
+    ###############     
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A130" unicode="E47">
+                        
+                        
+                        
+                        
+                        
+                  ##    
+          #####   ##    
+         ##    ####     
+        ##              
+        ##      ###     
+        ## ### #   #    
+        ####  ##   #    
+         ##    #   #    
+         ##     ###     
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A131" unicode="E2D">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        #######         
+      ###########       
+    ####      ####      
+   ###          ###     
+    #           ####    
+                 ###    
+        ###      ###    
+       #####     ###    
+      ##   ##    ###    
+      ##   ##    ###    
+      ##   ##    ###    
+      ######     ###    
+      #####      ###    
+      ###        ###    
+      ###        ###    
+      ###        ###    
+      ###        ###    
+      ###        ###    
+       ############     
+        ##########      
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A132" unicode="E23">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+          #####   #     
+        ############    
+       ###     ####     
+       ##               
+      #########         
+      ###########       
+      #       ####      
+               ####     
+                ###     
+                ###     
+                ###     
+                ###     
+                ###     
+              #####     
+             ######     
+            ##   ##     
+            ##   ##     
+            ##   ##     
+             #####      
+              ###       
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A133" unicode="E25">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        ######          
+      ##########        
+     ###      ###       
+    ###        ###      
+     #          ###     
+                ###     
+       ###      ###     
+      ######    ###     
+      ###  #    ###     
+      ###  ##   ###     
+      ###   ##  ###     
+      ###    #  ###     
+      ###    ## ###     
+      #####   # ###     
+      ######  #####     
+      ##   ## #####     
+      ##   ##  ####     
+      ##   ##  ####     
+       #####    ###     
+        ###     ###     
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A134" unicode="E32">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+         #####          
+       #########        
+      ###    ####       
+     ###      ###       
+      #        ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A135" unicode="E07">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+             ###        
+            #####       
+           ##   ##      
+           ##   ##      
+           ##   ##      
+            ######      
+             #####      
+               ###      
+               ###      
+               ###      
+    ###        ###      
+    ######     ###      
+       ####    ###      
+         ###   ###      
+          ###  ###      
+           ### ###      
+            ######      
+             #####      
+              ####      
+               ###      
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A136" unicode="E43">
+      #####             
+     #######            
+    ###   ###           
+   #####   ###          
+   ######  ###          
+   ##   ## ###          
+   ##   ## ###          
+   ##   ## ###          
+    #####  ###          
+     ###   ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           #####        
+           ######       
+           ##   ##      
+           ##   ##      
+           ##   ##      
+            #####       
+             ###        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A137" unicode="E49">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+             ###     ## 
+            #   #    ## 
+            #   #   ##  
+            #   #   ##  
+             ###   ##   
+              ## ###    
+            ######      
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A138" unicode="E2A">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                   #    
+        #######   ###   
+      ##############    
+    ####      ######    
+   ###         ####     
+    #       ########    
+                 ###    
+      ####       ###    
+     ######      ###    
+     ###  ##     ###    
+     ###   ##    ###    
+     ###    ##   ###    
+     ###    ###  ###    
+     ###     ##  ###    
+     #####    ## ###    
+     ######   ######    
+     ##   ##   #####    
+     ##   ##    ####    
+     ##   ##    ####    
+      #####      ###    
+       ###       ###    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A139" unicode="E14">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+       ########         
+     ############       
+    ####      ####      
+   ###         ####     
+   ##           ###     
+  ##             ###    
+  ##     ###     ###    
+  ##    #####    ###    
+  ##   ##   ##   ###    
+  ##   ##   ##   ###    
+   ##  ##   ##   ###    
+   ##   ######   ###    
+    ##   ####    ###    
+    ###   ##     ###    
+     ##  ##      ###    
+     ######      ###    
+      ####       ###    
+      ###        ###    
+      ###        ###    
+      ###        ###    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A13A" unicode="E41">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+    ###        ###      
+    ###        ###      
+    ###        ###      
+    ###        ###      
+    ###        ###      
+    ###        ###      
+    ###        ###      
+    ###        ###      
+    ###        ###      
+    ###        ###      
+    ###        ###      
+    ###        ###      
+    ###        ###      
+    #####      #####    
+    ######     ######   
+    ##   ##    ##   ##  
+    ##   ##    ##   ##  
+    ##   ##    ##   ##  
+     #####      #####   
+      ###        ###    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A13B" unicode="E21">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+    ###           ###   
+   ######         ###   
+  ##   ##         ###   
+  ##   ##         ###   
+  ##   ##         ###   
+   ######         ###   
+    #####         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+     ######       ###   
+   ###########    ###   
+   ## ###  ####   ###   
+  ##  ###    ###  ###   
+  ##  ###      ## ###   
+  ##  ###       #####   
+  ##  ###       #####   
+   ######        ####   
+    ####          ###   
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A13C" unicode="E04">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+       ########         
+     ############       
+    ####      ####      
+   ###         ####     
+   ##           ###     
+  ##             ###    
+  ##    ###      ###    
+  ##   #####     ###    
+  ##  ##   ##    ###    
+  ##  ##   ##    ###    
+   ## ##   ##    ###    
+   ## ######     ###    
+    #######      ###    
+    #####        ###    
+     ####        ###    
+     ####        ###    
+      ###        ###    
+      ###        ###    
+      ###        ###    
+      ###        ###    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A13D" unicode="E37">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+              ##  ##    
+         #######  ##    
+        ######### ##    
+       ##       ####    
+      #           ##    
+      ##############    
+     ###############    
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A13E" unicode="E42">
+        #####    #      
+      #############     
+      ###    #####      
+     ##                 
+     ######             
+    ########            
+    #    ####           
+          ####          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           ###          
+           #####        
+           ######       
+           ##   ##      
+           ##   ##      
+           ##   ##      
+            #####       
+             ###        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A13F" unicode="E2B">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+   ###          ###     
+  #####        #####    
+ ##   ##      ##   ##   
+ ##   ##      ##   ##   
+ ##   ##      ###  ##   
+  ######       #####    
+   #####        ####    
+     ###       ######   
+     ###     ###  ###   
+     ###    ###   ###   
+     ###   ###    ###   
+     ###  ###     ###   
+     ### ###      ###   
+     ### ##       ###   
+     #####        ###   
+     ####         ###   
+     ####         ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A140" unicode="E02">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+     ######      ###    
+    #########    ###    
+   ####   ###    ###    
+  ##   #   ###   ###    
+  ##   ##  ###   ###    
+  ##   ##  ###   ###    
+  ##   ##  ###   ###    
+   #####  ###    ###    
+    ###  ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+         ###     ###    
+       ############     
+       ###########      
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A141" unicode="E2E">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+         #######    ### 
+      ############ ###  
+     ####      ######   
+    ###         ####    
+    ####      ######    
+     ################   
+       ########   ###   
+                  ###   
+       ###        ###   
+      #####       ###   
+     ##   ##      ###   
+     ##   ##      ###   
+     ##   ##      ###   
+     ######       ###   
+     #####        ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+      ##############    
+       ############     
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A142" unicode="E1A">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+    ###           ###   
+   #####          ###   
+  ##   ##         ###   
+  ##   ##         ###   
+  ##   ##         ###   
+   ######         ###   
+    #####         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+    ################    
+    ###############     
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A143" unicode="E34">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+          #######       
+         #########      
+        ##       ##     
+       #           #    
+       #############    
+      ###############   
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A144" unicode="E39">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+             ###  ##    
+             # #  ##    
+             ###  ##    
+              ##  ##    
+              #####     
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A145" unicode="E1C">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+     ###         ###    
+    #####        ###    
+   ##   ##       ###    
+   ##   ##       ###    
+   ##   ##       ###    
+   ######        ###    
+   #####         ###    
+   ###           ###    
+   ###           ###    
+   ###     #     ###    
+   ###    ###    ###    
+   ###   #####   ###    
+   ###  ### ###  ###    
+   ### ###   ### ###    
+   ######     ######    
+   #####       #####    
+   #####       #####    
+   ####         ####    
+   ####         ####    
+   ###           ###    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A146" unicode="E36">
+                        
+                        
+                        
+                        
+                        
+                        
+                 ###    
+                ## ##   
+          ######## ##   
+         ############   
+        ##       ###    
+       #           #    
+       ##############   
+      ###############   
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A147" unicode="E20">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+         #######        
+       ###########      
+      ###      ####     
+     ###         ###    
+    ###          ####   
+    ####          ###   
+     ####         ###   
+       #####      ###   
+       ###        ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+    #####         ###   
+   ######         ###   
+  ##   ##         ###   
+  ##   ##         ###   
+  ##   ##         ###   
+   #####          ###   
+    ###           ###   
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A148" unicode="E28">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                   #    
+       ########   ###   
+     ###############    
+    ####      ######    
+   ###         ####     
+   ##       #######     
+  ##             ###    
+  ##    ###      ###    
+  ##   #####     ###    
+  ##  ##   ##    ###    
+  ##  ##   ##    ###    
+   ## ##   ##    ###    
+   ## ######     ###    
+    #######      ###    
+    #####        ###    
+     ####        ###    
+     ####        ###    
+      ###        ###    
+      ###        ###    
+      ###        ###    
+      ###        ###    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A149" unicode="E08">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        ######          
+      ##########        
+     ###      ###       
+    ###        ###      
+     #          ###     
+                ###     
+        ###     ###     
+       #####    ###     
+      ##   ##   ###     
+      ##   ##   ###     
+      ##   ##   ###     
+       ######   ###     
+        #####   ###     
+          ###   ###     
+          ###   ###     
+          ###   ###     
+          ###   ###     
+          ###   ###     
+           #######      
+            #####       
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A14A" unicode="E18">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+         #####    #     
+       #############    
+      ####    #####     
+      ##                
+     #########          
+     ###########        
+     #       #####      
+               ###      
+                ###     
+        ###     ###     
+        ###     ###     
+        ###     ###     
+        ###     ###     
+        ###     ###     
+        ###     ###     
+        ###     ###     
+        ###     ###     
+        ###     ###     
+      ############      
+      ###########       
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A14B" unicode="E46">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+     ##       ##        
+    #####   ######      
+   ##  #######  ###     
+   ##    ###    ###     
+  #####          ###    
+  ######         ###    
+  ##   ##        ###    
+  ##   ##        ###    
+  ##   ##        ###    
+   #####         ###    
+    ###          ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A14C" unicode="E38">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+                 ###    
+                 # #    
+                 ###    
+                  ##    
+                  ##    
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A14D" unicode="E24">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        #######         
+      ############      
+     ####      ####     
+    ###         ####    
+   ###           ###    
+   ####           ###   
+    ####          ###   
+      #####       ###   
+      ###         ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+     #####        ###   
+     ######       ###   
+     ##   ##      ###   
+     ##   ##      ###   
+     ##   ##      ###   
+      #####       ###   
+       ###        ###   
+                  ###   
+                  ###   
+                  ###   
+                  ###   
+                  ###   
+                  ###   
+                  ###   
+                  ###   
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A14E" unicode="E52">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+###                     
+####                    
+  ###                   
+  ###                   
+  ###                   
+  ###                   
+  ###    ####   ####    
+  ###   #############   
+  ###  ###  ####   ###  
+  ###  ###   ##    ###  
+  ###  ####  ##    ###  
+  ###  ##  ##      ###  
+  ###  ##  ##      ###  
+  ###  ##  ##      ###  
+  ###  ##  ##      ###  
+  ###   ####       ###  
+  ###              ###  
+  ###              ###  
+  ###################   
+  ##################    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A14F" unicode="E53">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+     #####   ######     
+   ######## ########    
+   ###   #####    ###   
+  ###     ###      ###  
+  ###     ###      ###  
+  ###     ###      ###  
+  ###     ###      ###  
+  #####   ###      ###  
+  ######  ###      ###  
+  ##   ## ###      ###  
+  ##   ## ###      ###  
+  ##   ## ###      ###  
+   #####  ###      ###  
+    ###   ###      ###  
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A150" unicode="E4C">
+                        
+                        
+                        
+                        
+                        
+                        
+                     ## 
+                   ###  
+                 ##     
+                ###     
+               #   #    
+               #   #    
+               #   #    
+                ###     
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A151" unicode="E54">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                     ## 
+                     ## 
+                    ### 
+                    ##  
+                   ###  
+                 ####   
+       #############    
+     #############      
+    ###                 
+   ###                  
+  ###        ####       
+  ###       ##  ##      
+  ###       ##  ##      
+  ###       ##  ##      
+  ###       ### ##      
+  ###        ####       
+   ###        ###       
+    ###      ######     
+     #########   ####   
+      ######       ##   
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A152" unicode="E16">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        #######         
+      ############      
+     ####      ####     
+    ###         ####    
+   ###           ###    
+   ####           ###   
+    ####          ###   
+      #####       ###   
+      ###         ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+     ###          ###   
+     #####        ###   
+     ######       ###   
+     ##   ##      ###   
+     ##   ##      ###   
+     ##   ##      ###   
+      #####       ###   
+       ###        ###   
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A153" unicode="E55">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                     ## 
+                     ## 
+         ####       ### 
+        ##  ##      ##  
+        ##  ##     ###  
+        ##  ##    ###   
+       #############    
+     #############      
+    ###                 
+   ###                  
+  ###        ####       
+  ###       ##  ##      
+  ###       ##  ##      
+  ###       ##  ##      
+  ###       ### ##      
+  ###        ####       
+   ###        ###       
+    ###      ######     
+     #########   ####   
+      ######       ##   
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A154" unicode="E0B">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                   ###  
+                   ###  
+     ##   ##      ###   
+    ##########   ###    
+   ##  ### ###  ####    
+   ##       ###  ####   
+  #####     ###   ###   
+  ######    ###   ###   
+  ##   ##  ####   ###   
+  ##   ##  ###    ###   
+  ##   ## ###     ###   
+   #####  ###     ###   
+    ###   ###     ###   
+          ###     ###   
+          ###     ###   
+          ###     ###   
+          ###     ###   
+          ###     ###   
+          ###     ###   
+          ###     ###   
+        ############    
+        ###########     
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A155" unicode="E4A">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+             ### ### ## 
+            ##  #  ## # 
+            ##  #  ## # 
+            ##     ## # 
+            ####   ## # 
+            ## #   ###  
+             ###  ###   
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A156" unicode="E45">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+         #####          
+       #########        
+      ###    ####       
+     ###      ###       
+      #        ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+               ###      
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A157" unicode="E57">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                    ##  
+                    ### 
+                     ## 
+    ####   ####      ## 
+   #############     ## 
+  ###  ####   ###    ## 
+ ###    ###    ##    ## 
+ ###    ##     ###   ## 
+ ###    ##     ###   ## 
+ ###    ##     ###   ## 
+ ###           ###   ## 
+ ### ####      ###  ##  
+ #####  ##     ###  ##  
+  ####  ##     ##  ###  
+  ####  ##    ### ###   
+   ###  ##    ######    
+     ####      ####     
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A158" unicode="E0E">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+         #######        
+       ###########      
+      ###      ####     
+     ###         ###    
+    ###          ####   
+    ####          ###   
+     ####         ###   
+       #####      ###   
+       ###        ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+    #####         ###   
+   ######         ###   
+  ##   ##         ###   
+  ##   ##         ###   
+  ##   ##         ###   
+   #####          ###   
+    ###           ###   
+             ##   ###   
+       ####  ##   ###   
+      ########    ###   
+     ###   ####   ###   
+     ##    ###### ###   
+     ##   ###  ######   
+      ######    #####   
+       ###       ####   
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A159" unicode="E56">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+  #                     
+ ###                    
+  ###                   
+   ###                  
+    ##                  
+    ###                 
+     ##   ######        
+     #############      
+      ###      ####     
+      #          ###    
+                 ####   
+       ####       ###   
+      ##  ##      ###   
+      ##  ##      ###   
+      ##  ##      ###   
+      ##  ##     ###    
+       ####      ###    
+       ###     ####     
+        ##########      
+          ######        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A15A" unicode="E1D">
+                        
+                        
+                        
+                        
+                        
+                        
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+                 ###    
+     ###         ###    
+    #####        ###    
+   ##   ##       ###    
+   ##   ##       ###    
+   ##   ##       ###    
+   ######        ###    
+   #####         ###    
+   ###           ###    
+   ###           ###    
+   ###     #     ###    
+   ###    ###    ###    
+   ###   #####   ###    
+   ###  ### ###  ###    
+   ### ###   ### ###    
+   ######     ######    
+   #####       #####    
+   #####       #####    
+   ####         ####    
+   ####         ####    
+   ###           ###    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A15B" unicode="E58">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                     ## 
+                     ## 
+                    ### 
+                    ##  
+                   ###  
+                 ####   
+       #############    
+     #############      
+    ###                 
+   ###                  
+  ###                   
+  ###            ###    
+  ###           ##  #   
+  ###           #    #  
+  ###   ####    #    #  
+  #### #######  ##  ##  
+   ### ##   ###  #####  
+    #####    ###   ##   
+     ####     #######   
+       ###      ####    
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A15C" unicode="E59">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                     ## 
+                     ## 
+                     ## 
+    #####   #####    ## 
+   ###############  ##  
+  ###   #####   ### ##  
+  ###    ####    ####   
+ ###      ###     ##    
+ ###      ###     #     
+ ###       ###          
+ ###       ###          
+ ###  #### ####         
+ ### #   ## ###         
+  ####   ##  ####       
+   ###   ##  #####      
+    #######   ###       
+     #####     ##       
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A15D" unicode="E50">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        ########        
+      ############      
+     ####      ####     
+    ####        ####    
+    ###          ###    
+   ###            ###   
+   ###            ###   
+   ###            ###   
+   ###            ###   
+    ###          ###    
+    ####        ####    
+     ####      ####     
+      ############      
+        ########        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A15E" unicode="E4B">
+                        
+                        
+                        
+                        
+                        
+                        
+                  ##    
+                  ##    
+                  ##    
+               ######## 
+               ######## 
+                  ##    
+                  ##    
+                  ##    
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A15F" unicode="E10">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+          #####   #     
+        ############    
+       ###     ####     
+       ##               
+      #########         
+      ###########       
+      #       ####      
+               ####     
+        ###     ###     
+       #####    ###     
+      ##   ##   ###     
+      ##   ##   ###     
+      ##   ##   ###     
+       ######   ###     
+        #####   ###     
+          ###   ###     
+          ###   ###     
+          ###   ###     
+           #######      
+            #####       
+                        
+           #    ##      
+           #   #  #     
+           #   #  #     
+       ### #    ###     
+      #  ##       #     
+      #  ### ##   #     
+       ### ##  ###      
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A160" unicode="E0F">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+         #######        
+       ###########      
+      ###      ####     
+     ###         ###    
+    ###          ####   
+    ####          ###   
+     ####         ###   
+       #####      ###   
+       ###        ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+      ###         ###   
+    #####         ###   
+   ######         ###   
+  ##   ##         ###   
+  ##   ##         ###   
+  ##   ##         ###   
+   #####          ###   
+    ###           ###   
+         ##       ###   
+         ##       ###   
+   ####  ##       ###   
+  ########        ###   
+  ##   ###        ###   
+  ##   ###   ###  ###   
+  ############ ## ###   
+   ####   ##    #####   
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A161" unicode="E3A">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+            ##          
+        ##  ## ##       
+        ##     ##       
+      ##         ##     
+      ##         ##     
+    ##             ##   
+    ##             ##   
+                        
+   ##               ##  
+   ##               ##  
+                        
+                        
+    ##             ##   
+    ##             ##   
+      ##         ##     
+      ##         ##     
+        ##     ##       
+        ##  ## ##       
+            ##          
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                 ###    
+                 ###    
+                 ###    
+                        
+                        
+                        
+                        
+</fontData>
+  </fontSet>
+  <fontSet size="16X16" start="A162">
+    <fontData ebcode="A162" unicode="221A">
+                
+                
+         #####  
+        #       
+        #       
+       #        
+       #        
+       #        
+      #         
+      #         
+   ## #         
+    ##          
+    ##          
+                
+                
+                
+</fontData>
+    <fontData ebcode="A163" unicode="E1E">
+                
+                
+                
+                
+                
+     #    #     
+    # #   #     
+     ## # #     
+      # # #     
+      ## ##     
+      #   #     
+      #   #     
+                
+                
+                
+                
+</fontData>
+    <fontData ebcode="A164" unicode="E0D">
+                
+                
+                
+                
+                
+    ###   #     
+   #   #  #     
+    #  #  #     
+   #   #  #     
+   ##  #  #     
+   # # #  #     
+    #  ###      
+       #  #     
+       ###      
+                
+                
+</fontData>
+    <fontData ebcode="A165" unicode="E29">
+                
+                
+                
+                
+                
+     #   #      
+    # #  #      
+     ##  #      
+      #####     
+      #  #      
+      #  #      
+     ####       
+                
+                
+                
+                
+</fontData>
+    <fontData ebcode="A166" unicode="E33">
+                
+      ##        
+     # #        
+     ##         
+                
+    ###    ##   
+   #   #  #  #  
+  #     #    #  
+  #     #    #  
+  #     #    #  
+   #   #     #  
+    ###      #  
+                
+                
+                
+                
+</fontData>
+    <fontData ebcode="A167" unicode="E13">
+                
+                
+                
+                
+                
+    ###   #     
+   #   #  #     
+    #  #  #     
+   #   #  #     
+   ##  # ###    
+   # # ## ##    
+    #  #  #     
+                
+                
+                
+                
+</fontData>
+    <fontData ebcode="A168" unicode="E1F">
+                
+                
+          #     
+          #     
+          #     
+     #    #     
+    # #   #     
+     ## # #     
+      # # #     
+      ## ##     
+      #   #     
+      #   #     
+                
+                
+                
+                
+</fontData>
+    <fontData ebcode="A169" unicode="E06">
+                
+                
+                
+                
+                
+     # #  #     
+    # # # #     
+     # #  #     
+       #  #     
+      ### #     
+     # # ##     
+      ##  #     
+                
+                
+                
+                
+</fontData>
+    <fontData ebcode="A16A" unicode="E09">
+                
+                
+                
+                
+                
+     ####       
+         #      
+     #   #      
+    # #  #      
+     ## ###     
+      ## ##     
+      #  #      
+                
+                
+                
+                
+</fontData>
+    <fontData ebcode="A16B" unicode="E11">
+                
+                
+                
+                
+                
+     # # #      
+    # ### #     
+     # #  #     
+      #   #     
+      #   #     
+      #   #     
+      #   #     
+                
+                
+                
+                
+</fontData>
+    <fontData ebcode="A16C" unicode="E0C">
+                
+                
+                
+                
+                
+    ###   #     
+   #   #  #     
+    #  #  #     
+   #   #  #     
+   ## ### #     
+   # # # ##     
+    # ##  #     
+                
+                
+                
+                
+</fontData>
+    <fontData ebcode="A16D" unicode="E12">
+                
+                
+                
+                
+                
+    ## #   #    
+   #  # #  #    
+   # #  #  #    
+   ## # #  #    
+   # # ### #    
+    ## ## ##    
+    #   #  #    
+                
+                
+                
+                
+</fontData>
+    <fontData ebcode="A16E" unicode="E2C">
+                
+                
+                
+                
+          #     
+     #    #     
+    # #  #      
+     ##   #     
+      # # #     
+      # # #     
+      ## ##     
+      #   #     
+                
+                
+                
+                
+</fontData>
+  </fontSet>
+  <fontSet size="24X24" start="A162">
+    <fontData ebcode="A162" unicode="221A">
+                        
+                        
+                        
+                        
+                        
+            ########    
+            #           
+            #           
+           #            
+           #            
+           #            
+          #             
+          #             
+         #              
+         #              
+         #              
+    ### #               
+    # # #               
+      ###               
+       #                
+       #                
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A163" unicode="E1E">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        #   #  ##       
+       # #  #  ##       
+        ##  #  ##       
+        ## # # ##       
+        ## # # ##       
+        ## # # ##       
+        ###   ###       
+        ###   ###       
+        ##     ##       
+        ##     ##       
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A164" unicode="E0D">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        ####    ##      
+       #   ##   ##      
+      ##    ##  ##      
+       ##   ##  ##      
+      ##    ##  ##      
+      ##    ##  ##      
+      ##    ##  ##      
+      ##    ##  ##      
+      # #   ##  ##      
+       #   ######       
+                        
+            ###  #      
+            # #  #      
+            ### #       
+             ###        
+                        
+</fontData>
+    <fontData ebcode="A165" unicode="E29">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        #     ##        
+       # #    ##        
+        ##  # ## #      
+        ## # ### #      
+        ## ## ###       
+        ##  ####        
+        ##    ##        
+        ##    ##        
+        ##    ##        
+       ########         
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A166" unicode="E33">
+                        
+                        
+                        
+                        
+         #              
+        # #             
+         #              
+     # ##               
+   #      #   ####      
+             #   ##     
+  #        #      ##    
+  #        #      ##    
+                  ##    
+  #        #      ##    
+                  ##    
+   #      #       ##    
+     # ##         ##    
+                  ##    
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A167" unicode="E13">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        ####    ##      
+       #   ##   ##      
+      ##    ##  ##      
+       ##   ##  ##      
+      ##    ##  ##      
+      ##    ##  ##      
+      ##    ## ####     
+      ##    ### ## #    
+      # #   ### ## #    
+       #    ##   ##     
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A168" unicode="E1F">
+                        
+                        
+                        
+               ##       
+               ##       
+               ##       
+               ##       
+               ##       
+        #   #  ##       
+       # #  #  ##       
+        ##  #  ##       
+        ## # # ##       
+        ## # # ##       
+        ## # # ##       
+        ###   ###       
+        ###   ###       
+        ##     ##       
+        ##     ##       
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A169" unicode="E06">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+       ## ##    ##      
+      #  # ##   ##      
+      ##   ##   ##      
+      # #  ##   ##      
+       #  ##    ##      
+          ##    ##      
+         #####  ##      
+        # ##  # ##      
+        # ##   ###      
+         ###    ##      
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A16A" unicode="E09">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+         #####          
+        #    ##         
+       #      ##        
+         #    ##        
+        # #   ##        
+         ##   ##        
+         ##  ####       
+         ## # ## #      
+         ###  ## #      
+         ##    ###      
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A16B" unicode="E11">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+       #  #    ###      
+      # ####  # ##      
+      ##  ## #  ##      
+      # # ## #  ##      
+       # ## #   ##      
+         ## #   ##      
+         ###    ##      
+         ###    ##      
+         ##     ##      
+         ##     ##      
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A16C" unicode="E0C">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        ####    ##      
+       #   ##   ##      
+      ##    ##  ##      
+       ##   ##  ##      
+      ##    ##  ##      
+      ##    ##  ##      
+      ##   #### ##      
+      ##  # ## ###      
+      # # # ## ###      
+       #   ###  ##      
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A16D" unicode="E12">
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+        #  ##    ##     
+       # ##  #   ##     
+      #      ##  ##     
+      #  #   ##  ##     
+      # # #  ##  ##     
+      ## ##  ##  ##     
+       #  # #### ##     
+        ## # ## ###     
+        ## # ## ###     
+        ##  ###  ##     
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+    <fontData ebcode="A16E" unicode="E2C">
+                        
+                        
+                        
+                        
+                        
+                #  #    
+               # ###    
+                ##      
+        #   ##  ##      
+       # #  ##  ##      
+        ##  ##  ##      
+        ##  ##  ##      
+        ## #  # ##      
+        ## #  # ##      
+        ###    ###      
+        ###    ###      
+        ##      ##      
+        ##      ##      
+                        
+                        
+                        
+                        
+                        
+                        
+</fontData>
+  </fontSet>
+  <fontSet size="48X48" start="A162">
+    <fontData ebcode="A162" unicode="221A">
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                           ###############      
+                          ##                    
+                          #                     
+                          #                     
+                         ##                     
+                         #                      
+                         #                      
+                        ##                      
+                        #                       
+                        #                       
+                       ##                       
+                       #                        
+                       #                        
+                      ##                        
+                      #                         
+                     ##                         
+                     ##                         
+                     #                          
+                    ##                          
+                    ##                          
+                    #                           
+            ##     ##                           
+           ###     ##                           
+         ######    #                            
+        ### ###   ##                            
+         #  ####  #                             
+             ###  #                             
+             ######                             
+              ####                              
+              ####                              
+               ###                              
+               ##                               
+                #                               
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+</fontData>
+    <fontData ebcode="A163" unicode="E1E">
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+               ###       ##     ###             
+              #####      ##     ###             
+             ##   ##     ##     ###             
+             ##   ##     ##     ###             
+             ##   ##    ####    ###             
+              ######    ####    ###             
+               #####    ####    ###             
+                 ###   ######   ###             
+                 ###   ##  ##   ###             
+                 ###  ###  ###  ###             
+                 ###  ##    ##  ###             
+                 ### ###    ### ###             
+                 ### ##      ## ###             
+                 ######      ######             
+                 #####        #####             
+                 #####        #####             
+                 ####          ####             
+                 ####          ####             
+                 ###            ###             
+                 ###            ###             
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+</fontData>
+    <fontData ebcode="A164" unicode="E0D">
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                ######          ###             
+              ##########        ###             
+             ###     ####       ###             
+            ###        ###      ###             
+           ###         ####     ###             
+           ####         ###     ###             
+            ####        ###     ###             
+              #####     ###     ###             
+              ###       ###     ###             
+             ###        ###     ###             
+             ###        ###     ###             
+             ###        ###     ###             
+             ###        ###     ###             
+             #####      ###     ###             
+             ######     ###     ###             
+             ##   ##    ###     ###             
+             ##   ##    ###     ###             
+             ##   ##    ###     ###             
+              #####   ############              
+               ###    ###########               
+                                                
+                                                
+                        ###      ##             
+                       #   #     ##             
+                       #   #    ##              
+                       #   #   ###              
+                        ###   ##                
+                         ######                 
+                                                
+                                                
+                                                
+                                                
+</fontData>
+    <fontData ebcode="A165" unicode="E29">
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+               ###           ###                
+              #####          ###                
+             ##   ##         ###                
+             ##   ##         ###                
+             ##   ##         ###                
+              ######         ###                
+               #####         ###                
+                 ###   ###   ###                
+                 ###  #   #  ###  ##            
+                 ###  #   #  ###  ##            
+                 ###  #   #  ### ##             
+                 ###   ###   #####              
+                 ###     #######                
+                 ###         ###                
+                 ###         ###                
+                 ###         ###                
+                 ###         ###                
+                 ###         ###                
+               ################                 
+               ###############                  
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+</fontData>
+    <fontData ebcode="A166" unicode="E33">
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                     ###                        
+                    #####                       
+                   ##   ##                      
+                   ##   ##                      
+                   ##   ##                      
+                    #####                       
+                     ###                        
+                                                
+                ##                              
+            ##  ## ##            #####          
+            ##     ##          #########        
+          ##         ##       ###    ####       
+          ##         ##      ###      ###       
+        ##             ##     #        ###      
+        ##             ##              ###      
+                                       ###      
+       ##               ##             ###      
+       ##               ##             ###      
+                                       ###      
+                                       ###      
+        ##             ##              ###      
+        ##             ##              ###      
+          ##         ##                ###      
+          ##         ##                ###      
+            ##     ##                  ###      
+            ##  ## ##                  ###      
+                ##                     ###      
+                                       ###      
+                                       ###      
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+</fontData>
+    <fontData ebcode="A167" unicode="E13">
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+              #######         ###               
+             ##########       ###               
+           ####     ####      ###               
+           ###       ###      ###               
+          ###         ###     ###               
+          ####        ###     ###               
+           ####       ###     ###               
+             #####    ###     ###               
+             ###      ###     ###               
+            ###       ###     ###               
+            ###       ###     ###               
+            ###       ###    #####              
+            ###       ###  ########             
+            #####     ### ### ### ##            
+            ######    ### ##  ###  ##           
+            ##   ##   #####   ###  ##           
+            ##   ##   ####    ###  ##           
+            ##   ##   ####    ###  ##           
+             #####    ####     #####            
+              ###     ###       ####            
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+</fontData>
+    <fontData ebcode="A168" unicode="E1F">
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                ###             
+                                ###             
+                                ###             
+                                ###             
+                                ###             
+                                ###             
+                                ###             
+                                ###             
+                                ###             
+                                ###             
+               ###       ##     ###             
+              #####      ##     ###             
+             ##   ##     ##     ###             
+             ##   ##     ##     ###             
+             ##   ##    ####    ###             
+              ######    ####    ###             
+               #####    ####    ###             
+                 ###   ######   ###             
+                 ###   ##  ##   ###             
+                 ###  ###  ###  ###             
+                 ###  ##    ##  ###             
+                 ### ###    ### ###             
+                 ### ##      ## ###             
+                 ######      ######             
+                 #####        #####             
+                 #####        #####             
+                 ####          ####             
+                 ####          ####             
+                 ###            ###             
+                 ###            ###             
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+</fontData>
+    <fontData ebcode="A169" unicode="E06">
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+               ##   ##         ###              
+              ##########       ###              
+             ##  ### ###       ###              
+             ##       ###      ###              
+            #####     ###      ###              
+            ######    ###      ###              
+            ##   ##  ###       ###              
+            ##   ## ####       ###              
+            ##   ## ###        ###              
+             #####  ###        ###              
+              ###   ###        ###              
+                   ######      ###              
+                 ##########    ###              
+                 ## ###  ###   ###              
+                ##  ###    ### ###              
+                ##  ###     ## ###              
+                ##  ###      #####              
+                ##  ###       ####              
+                 ######       ####              
+                  ####         ###              
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+</fontData>
+    <fontData ebcode="A16A" unicode="E09">
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                  ########                      
+                ############                    
+              ####       ####                   
+             ###           ###                  
+              #            ####                 
+                            ###                 
+                  ###       ###                 
+                 #####      ###                 
+                ##   ##     ###                 
+                ##   ##     ###                 
+                ##   ##     ###                 
+                 ######    #####                
+                  #####   #######               
+                    ###  ## ### ##              
+                    ### ##  ###  ##             
+                    ### #   ###  ##             
+                    #####   ###  ##             
+                    ####    ###  ##             
+                    ####     #####              
+                    ###       ####              
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+</fontData>
+    <fontData ebcode="A16B" unicode="E11">
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+               ##   ##        ####              
+              ##########     ######             
+             ##  ### ###    ### ###             
+             ##       ###   ##  ###             
+            #####     ###  ##   ###             
+            ######    ### ###   ###             
+            ##   ##  #### ##    ###             
+            ##   ##  ### ###    ###             
+            ##   ## ###  ##     ###             
+             #####  ### ###     ###             
+              ###   ### ##      ###             
+                    ### ##      ###             
+                    #####       ###             
+                    #####       ###             
+                    #####       ###             
+                    ####        ###             
+                    ####        ###             
+                    ####        ###             
+                    ###         ###             
+                    ###         ###             
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+</fontData>
+    <fontData ebcode="A16C" unicode="E0C">
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                ######          ###             
+              ##########        ###             
+             ###     ####       ###             
+            ###        ###      ###             
+           ###         ####     ###             
+           ####         ###     ###             
+            ####        ###     ###             
+              #####     ###     ###             
+              ###       ###     ###             
+             ###        ###     ###             
+             ###        ###     ###             
+             ###        ###     ###             
+             ###       #####    ###             
+             #####    ########  ###             
+             ######  ## ### ### ###             
+             ##   ## ## ###  ######             
+             ##   ## ## ###   #####             
+             ##   ## ## ###    ####             
+              #####   #####    ####             
+               ###    ####      ###             
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+</fontData>
+    <fontData ebcode="A16D" unicode="E12">
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+              ##      ##         ###            
+             ####   ######       ###            
+            ## #######  ##       ###            
+           ##    ###    ###      ###            
+           ##            ###     ###            
+          ##             ###     ###            
+          ##     ###     ###     ###            
+          ##    #####    ###     ###            
+          ##   ##   ##   ###     ###            
+          ##   ##   ##   ###     ###            
+           ##  ##   ##   ###     ###            
+           ##   ######   ###     ###            
+            ##   ####   #####    ###            
+            ###   ##   ########  ###            
+             ##  ##   ###### ### ###            
+             ######   ## ###  ######            
+              ####    ## ###   #####            
+              ###     ## ###    ####            
+              ###      #####    ####            
+              ###      ####      ###            
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+</fontData>
+    <fontData ebcode="A16E" unicode="E2C">
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                              ####              
+                             ######  #          
+                             ##  ## ###         
+                             ##  #####          
+                             ########           
+                              #####             
+               ###       ##     ###             
+              #####      ##     ###             
+             ##   ##     ##     ###             
+             ##   ##     ##     ###             
+             ##   ##    ####    ###             
+              ######    ####    ###             
+               #####    ####    ###             
+                 ###   ######   ###             
+                 ###   ##  ##   ###             
+                 ###  ###  ###  ###             
+                 ###  ##    ##  ###             
+                 ### ###    ### ###             
+                 ### ##      ## ###             
+                 ######      ######             
+                 #####        #####             
+                 #####        #####             
+                 ####          ####             
+                 ####          ####             
+                 ###            ###             
+                 ###            ###             
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+                                                
+</fontData>
+  </fontSet>
+</gaijiData>

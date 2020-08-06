@@ -1,0 +1,8 @@
+span.hwg{headWordGroup:true;}
+span.hv{key:表記;}
+span.hw{key:かな;}
+span.fld{category:分野;}
+span.idm{dfn:true;}
+span.box{reference:true;}
+*.entry[id^="WDJE"] span.hwg span.box.ty_jump_table{reference:false;}
+span.box > span.title{referenceTitle:true;}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<gaijiSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <gaijiMap unicode="#xE8" ebcode="A121" alt="e" />
+  <gaijiMap unicode="#xE0" ebcode="A122" alt="a" />
+  <gaijiMap unicode="#xE9" ebcode="A123" alt="e" />
+  <gaijiMap unicode="#xC9" ebcode="A124" alt="E" />
+  <gaijiMap unicode="#xAB" ebcode="A125" />
+  <gaijiMap unicode="#xBB" ebcode="A126" />
+  <gaijiMap unicode="#xEA" ebcode="A127" alt="e" />
+  <gaijiMap unicode="#x2013" ebcode="A128" />
+  <gaijiMap unicode="#xF4" ebcode="A129" alt="o" />
+  <gaijiMap unicode="#xC0" ebcode="A12A" alt="A" />
+  <gaijiMap unicode="#xE7" ebcode="A12B" alt="c" />
+  <gaijiMap unicode="#xE2" ebcode="A12C" alt="a" />
+  <gaijiMap unicode="#x2022" ebcode="A12D" />
+  <gaijiMap unicode="#xFB" ebcode="A12E" alt="u" />
+  <gaijiMap unicode="#xF9" ebcode="A12F" alt="u" />
+  <gaijiMap unicode="#x251" ebcode="A130" />
+  <gaijiMap unicode="#x303" ebcode="A131" />
+  <gaijiMap unicode="#xEE" ebcode="A132" alt="i" />
+  <gaijiMap unicode="#x25B" ebcode="A133" />
+  <gaijiMap unicode="#x254" ebcode="A134" />
+  <gaijiMap unicode="#xEF" ebcode="A135" alt="i" />
+  <gaijiMap unicode="#xCA" ebcode="A136" alt="E" />
+  <gaijiMap unicode="#x292" ebcode="A137" />
+  <gaijiMap unicode="#x259" ebcode="A138" />
+  <gaijiMap unicode="#xCE" ebcode="A139" alt="I" />
+  <gaijiMap unicode="#xC2" ebcode="A13A" alt="A" />
+  <gaijiMap unicode="#x283" ebcode="A13B" />
+  <gaijiMap unicode="#xC7" ebcode="A13C" alt="C" />
+  <gaijiMap unicode="#xFC" ebcode="A13D" alt="u" />
+  <gaijiMap unicode="#xEB" ebcode="A13E" alt="e" />
+  <gaijiMap unicode="#x265" ebcode="A13F" />
+  <gaijiMap unicode="#xC8" ebcode="A140" alt="E" />
+  <gaijiMap unicode="#x273" ebcode="A141" />
+  <gaijiMap unicode="#xF8" ebcode="A142" alt="o" />
+  <gaijiMap unicode="#xA2" ebcode="A143" />
+  <gaijiMap unicode="#x2DA" ebcode="A144" />
+  <gaijiMap unicode="#x25CA" ebcode="A145" />
+  <gaijiMap unicode="#x272" ebcode="A146" />
+  <gaijiMap unicode="#xF1" ebcode="A147" alt="n" />
+  <gaijiMap unicode="#x20AC" ebcode="A148" />
+  <gaijiMap unicode="#xF3" ebcode="A149" alt="o" />
+  <gaijiMap unicode="#x2BC" ebcode="A14A" />
+  <gaijiMap unicode="#xCF" ebcode="A14B" alt="I" />
+  <gaijiMap unicode="#xE3" ebcode="A14C" alt="a" />
+  <gaijiMap unicode="#xA3" ebcode="A14D" />
+  <gaijiMap unicode="#xF6" ebcode="A14E" alt="o" />
+  <gaijiMap unicode="#xB5" ebcode="A14F" />
+  <gaijiMap unicode="#x2044" ebcode="A150" />
+  <gaijiMap unicode="#x153" ebcode="A151" alt="oe" />
+  <gaijiMap unicode="#xE6" ebcode="A152" alt="ae" />
+  <gaijiMap unicode="#x152" ebcode="A153" alt="OE" />
+  <gaijiMap unicode="#xD4" ebcode="A154" alt="O" />
+  <gaijiMap unicode="#x2014" ebcode="A155" />
+  <gaijiMap unicode="#xA9" ebcode="A156" alt="(C)" />
+</gaijiSet>
