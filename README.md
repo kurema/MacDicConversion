@@ -35,7 +35,6 @@ If you use [EBStudio](http://ebstudio.info/home/EBStudio.html) ...
 
 1. copy ``Body.data`` from somewhare to ``unzip/``
 2. run convert.bat  
-``unzip/out/`` contains bunch of html files. But it may need to be processed. 
 3. cut ``unzip/out/`` to ``convert/*/``.
 4. copy ``DefaultStyle.css`` and ``Images/`` (if exist) to ``convert/*/``
 5. run ``convert.bat``.
