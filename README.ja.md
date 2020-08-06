@@ -4,7 +4,8 @@
 ### EBStudio
 1. ``Body.data``を``unzip/``に配置する。
 2. ``convert.bat``を実行。``unzip/out/``に大量のhtmlファイルが出来ます。
-3. ``unzip/out/``を``convert/辞書名/``に移動します。該当しなければ適当なフォルダをコピーします。
+3. ``unzip/out/``を``convert/辞書名/``に移動します。  
+該当しなければ適当なフォルダをコピーして、そこに入れます。``Arkadas Turkce Sozluk``とかは標準的なのでそのあたりで。
 4. ``DefaultStyle.css``と``Images/``もそのフォルダにコピーします。
 5. ``convert.bat``を実行します。
 6. ``readme.txt``に何か記載があれば、手作業などが必要な場合があります。
