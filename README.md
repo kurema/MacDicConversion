@@ -49,6 +49,7 @@ Tools used
 
 * [MacDic2html](https://github.com/kurema/MacDic2html)
 * [table2image](https://github.com/kurema/table2image)
+* [EBStudioUtf8ToolkitSharp](https://github.com/kurema/EBStudioUtf8ToolkitSharp) aka FontDumpK
 
 ## Caution
 If you fork and operate, be very careful not to publish actual dictionary file by accident.
