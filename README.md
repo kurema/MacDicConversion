@@ -3,6 +3,8 @@
 
 Convert macOS dictonary data to handy html.
 
+**USE PyGlossary INSTEAD**
+
 ## How To
 ### Basic
 If you don't know what [EBStudio](http://ebstudio.info/home/EBStudio.html) is ...
