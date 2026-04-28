@@ -3,7 +3,7 @@
 
 Convert macOS dictonary data to handy html.
 
-**USE PyGlossary INSTEAD**
+**USE [PyGlossary](https://github.com/ilius/pyglossary) INSTEAD**
 
 ## How To
 ### Basic
